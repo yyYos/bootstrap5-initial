@@ -1,0 +1,14 @@
+.content{
+    height: 50px;
+    margin-bottom: 10px;
+}
+.back-color{
+    background: purple;
+    font-size: 16px;
+    color: aliceblue;
+}
+.back-solor-fluid{
+    background: orange;
+    font-size: 16px;
+    color: aliceblue;
+}
